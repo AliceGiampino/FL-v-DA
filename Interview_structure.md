@@ -2,17 +2,17 @@
 
 ## Legend
 
-- 🔵 
-- 🟠 
-- 🟢 
-- 🔴 
-- ⚫ 
+- 🔵 Identity
+- 🟠 Aspirations
+- 🟢 Heritage
+- 🔴 Values
+- ⚫ Communication
 
 
 | Type | No. | Question |
 |---|---:|---|
-| 🔵 | 1 | What does the name “Lower Aosta Valley” mean to you? |
-| 🔵 | 1b | Which portion of the territory does the “Lower Valley” include? |
+| 🔵 | 1 | What does the name "Lower Aosta Valley" mean to you? |
+| 🔵 | 1b | Which portion of the territory does the "Lower Valley" include? |
 | 🔵 | 2 | Could you describe your connection with this place? |
 | 🔵 | 3 | What are the unique features of this place that strike you? |
 | 🔵 | 4 | How do you think this area is perceived by people coming from outside? |
@@ -29,4 +29,4 @@
 | 🔴 | 17 | What values do you associate with this place? |
 | 🔴 | 19 | What kind of activities or organizations do you think align with the values of the place? |
 | ⚫ | 20 | How do you think the image of this area could be better communicated to the outside world? |
-| ⚫ | 21 | If you had to imagine an alternative and tourist-appealing name for the area commonly referred to as the “Lower Aosta Valley”, what name would you think of? |
+| ⚫ | 21 | If you had to imagine an alternative and tourist-appealing name for the area commonly referred to as the "Lower Aosta Valley", what name would you think of? |
